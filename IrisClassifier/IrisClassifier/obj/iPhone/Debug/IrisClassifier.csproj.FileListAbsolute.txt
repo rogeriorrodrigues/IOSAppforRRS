@@ -1,0 +1,12 @@
+C:\Users\raymondl\Documents\Visual Studio 2015\Projects\IrisClassifier\IrisClassifier\bin\iPhone\Debug\IrisClassifier.exe
+C:\Users\raymondl\Documents\Visual Studio 2015\Projects\IrisClassifier\IrisClassifier\bin\iPhone\Debug\IrisClassifier.pdb
+C:\Users\raymondl\Documents\Visual Studio 2015\Projects\IrisClassifier\IrisClassifier\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Users\raymondl\Documents\Visual Studio 2015\Projects\IrisClassifier\IrisClassifier\bin\iPhone\Debug\Newtonsoft.Json.xml
+C:\Users\raymondl\Documents\Visual Studio 2015\Projects\IrisClassifier\IrisClassifier\obj\iPhone\Debug\ibtool\LaunchScreen.nib
+C:\Users\raymondl\Documents\Visual Studio 2015\Projects\IrisClassifier\IrisClassifier\obj\iPhone\Debug\optimized\
+C:\Users\raymondl\Documents\Visual Studio 2015\Projects\IrisClassifier\IrisClassifier\obj\iPhone\Debug\optimized\Entitlements.plist
+C:\Users\raymondl\Documents\Visual Studio 2015\Projects\IrisClassifier\IrisClassifier\obj\iPhone\Debug\IrisClassifier.exe
+C:\Users\raymondl\Documents\Visual Studio 2015\Projects\IrisClassifier\IrisClassifier\obj\iPhone\Debug\IrisClassifier.pdb
+C:\Users\raymondl\Documents\Visual Studio 2015\Projects\IrisClassifier\IrisClassifier\obj\iPhone\Debug\IrisClassifier.csprojResolveAssemblyReference.cache
+C:\Users\raymondl\Documents\Visual Studio 2015\Projects\IrisClassifier\IrisClassifier\obj\iPhone\Debug\IrisClassifier.exe.mdb
+C:\Users\raymondl\Documents\Visual Studio 2015\Projects\IrisClassifier\IrisClassifier\bin\iPhone\Debug\IrisClassifier.exe.mdb
